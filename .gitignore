@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+
+# Environment Variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Streamlit
+.streamlit/
+
+# Cache
+.cache/
+huggingface/
+
+# Model Files
+saved_models/
+models/
+
+# PyTorch
+*.pth
+
+# Pickle Files
+*.pkl
+
+# Build Files
+build/
+dist/
+
+# Temporary Files
+temp/
+tmp/
