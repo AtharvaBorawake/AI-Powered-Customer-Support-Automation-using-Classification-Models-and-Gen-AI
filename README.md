@@ -1,0 +1,2 @@
+# AI-Powered-Customer-Support-Automation-using-Classification-Models-and-Gen-AI
+Built a classification model (Logistic regression, Naïve Bayes, SVM or RNN/LSM) that can automatically classify tickets into their respective queues based on the ticket body text. After classification, integrated Gemini API to automatically draft a polite and generic response for the customer, acknowledging their issue and assuring support.
